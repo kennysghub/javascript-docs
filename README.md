@@ -1,2 +1,2 @@
-# javascript-docs
-javascript documentation
+# javascript-react
+javascript-react documentation
